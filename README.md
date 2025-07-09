@@ -1,7 +1,6 @@
-# ZIPAP
-- ZIPAP에 대한 코드임, 총 두개 컴포넌트로 구성돼 있음
-  1. single distribution에 대한 ZIPAP
-  2. multi-modal distribution ZIPAP
-  3. 총 코드는 summary_of_ZIPAP에 있음
+# zPAP (Zero Inflation Polynomial adjustment Poisson)
+- zPAP
+  1. ZIPAP_정리코드
+  2. zPAP : 멀티모달에 대한 starting point를 달리 주었을때 estimation 수렴확인
 ---
-수식 구성은 다음과 같음
+현재 1차 리비젼 중, publication 되면 자세히 작성할 예정
